@@ -1,0 +1,5 @@
+deepteam>=1.0.9
+sentry-sdk
+ollama
+requests
+pandas
